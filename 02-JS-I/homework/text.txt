@@ -1,0 +1,12 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+
+	* Variables: son 'espacios' donde se guardan valores, estos pueden ser numeros, letras, booleanos (verdadero o falso) y aveces hasta valores nulos o indefinidos. Se pueden utilizar, reutilizar y cambiar (asignar valores) todas las veces que necesites dentro del codigo.
+
+	* Strings: son textos los cuales pueden ser palabras, simbolos y numeros. siempre se escriben entre comillas simples o dobles, todo lo que este dentro de las comillas la computadora lo considera como un string o cadena de strings. Por ejemplo si un numero esta dentro de comillas se considera un string y no se podria utilizar para operaciones matematicas.
+	
+	* Funciones (argumentos, `return`): es una porcion de codigo que se utiliza para simplificar tareas, ahorrar tiempo y trabajo. recibe argumentos que son valores que ingresan a la misma para sufrir una 'transformacion' y luego devolver algun valor ya procesado
+	
+	* Declaraciones `if`: son situaciones condicionales que incluimos dentro de las funciones donde indicamos SI se cumple esta condicion, realiza esta accion. Aveces podemos incluir una segunda accion que ocurra si es que no se cumple la primer condicion (IF), es decir... si no se cumple el if entonces hace esto otro.
+	
+	* Valores booleanos (`true`, `false`): son valores logicos de verdadero o falso,son solo esas dos opciones. Estos pueden ser el resultado de una funcion o bien el valor que tenga una variable.
